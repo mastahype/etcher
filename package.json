@@ -2,7 +2,7 @@
   "name": "etcher",
   "private": true,
   "displayName": "Etcher",
-  "version": "1.4.4",
+  "version": "1.4.4-rev1",
   "packageType": "local",
   "updates": {
     "enabled": true,
